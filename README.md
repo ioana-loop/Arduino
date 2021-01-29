@@ -10,7 +10,7 @@ This is a simple automated instruction that passes a signal to an LED light at e
 ## Vol
 A volume control that can be used to determine somebody’s hearing threshold. A user can start with the volume all the way up and until they no longer hear sound, or start with the volume off and turn up until they do hear the sound
 
-## Theremin
+## Blink-Sound
 
 The sound detection test will turn the light on and there will be either a beep from the buzzer or not. The beep will be determined at random.
 
