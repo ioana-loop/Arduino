@@ -1,11 +1,6 @@
 # Arduino
 This repository includes design files for embedded programming in C++ for Automated Devices with Arduino Control. The different design files are defined here:
 
-# Test Your Arduino
-
-## Blink
-Your basic first system test: getting the Arduino microchip, sensors, and output set up.
-This is a simple automated instruction that passes a signal to an LED light at equal intervals.
 
 ## Vol
 A volume control that can be used to determine somebody’s hearing threshold. A user can start with the volume all the way up and until they no longer hear sound, or start with the volume off and turn up until they do hear the sound
